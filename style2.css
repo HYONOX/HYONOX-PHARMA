@@ -174,36 +174,31 @@ button span{
 .cpi{
   background: #1d2026;
   margin-top:0px ;
-  min-height: 100vh;
+  min-height: 120vh;
   width: 100%;
   color: #fff;
   position: relative;
 }
+  
 iframe{
-  background: #1d2026;
-  min-height: 100vh;
-  margin-top: 10px;
-  height: 100%;
-  width: 1200px;
-  position: relative;
+  position: absolute;
+  margin-left:-3px;
+  top: 20px;
+  left: -20px;
+  width:1225px;
+  height:750px;
 }
-
- .para    }
-position: absolute;
-  margin-left:-10%;
-  top: 25;
-  left: 12%;
-  width:1000px;
+.para{
+  max-width: 300px;
+  margin-top: 7%;
+  margin-left: 80%;
 }
-.para
-{
-  text-decoration: wavy;
-  padding: 35px 50px;
+.para {
+  text-decoration: none;
+  background: #00986f;
+  padding: 15px 40px;
   display: inline-block;
+  color: #fff;
   font-size: 18px;
-  max-width: 450px;
-  margin-top: 17%;
-  margin-left: 58%;
-  border-radius: 85px;
-}
-     
+  margin-top: 30px;
+  border-radius: 30px;
